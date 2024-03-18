@@ -1,4 +1,4 @@
-# Author SaiKishor
+# Author SaiKishore
 
 Please access the application using below url: 
      `http://13.127.162.247:8081/api/v1`
