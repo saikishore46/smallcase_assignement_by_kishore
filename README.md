@@ -4,7 +4,7 @@ Please access the application using below url:
      `http://13.127.162.247:8081/api/v1`
 
 
-#Steps followed to fullfill the requirements.
+# Steps followed to fullfill the requirements.
  1. Created Iam role and attached the Ec2
  2. Wrote the terraform code and created ec2, with attached ebs encyrptiops
  3. Logged into the server which is created using terraform
